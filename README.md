@@ -19,4 +19,9 @@ Date: December 02, 2023
 
 To install the necessary libraries, run:
 ```bash
-pip install simpy numpy pandas seaborn matplotlib scipy
+pip install simpy
+pip install numpy
+pip install pandas
+pip install seaborn
+pip install matplotlib
+pip install scipy
