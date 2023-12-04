@@ -49,4 +49,5 @@ The simulation results are analyzed using various statistical tools and visualiz
 Feedback and contributions are highly appreciated. If you have suggestions or want to contribute to the project, please contact one of the authors.
 
 ## License
-This project is open-source and free to use.
+This project and its contents are proprietary and confidential. Unauthorized copying, distribution, or use is strictly prohibited. All rights are reserved by the authors.
+
